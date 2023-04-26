@@ -9,4 +9,5 @@ To allocate memory dynamically, library functions are malloc() is used. These fu
 malloc() The name "malloc" stands for memory allocation.
 
 The malloc() function reserves a block of memory of the specified number of bytes. And, it returns a pointer of void which can be casted into pointers of any form.
+
 ![image](https://user-images.githubusercontent.com/125429608/234447867-c54264ae-b782-49dd-9331-4cd24171553a.png)
